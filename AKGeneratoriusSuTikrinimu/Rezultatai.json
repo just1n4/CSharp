@@ -1,0 +1,146 @@
+[
+  {
+    "vardas": "Justina",
+    "pavarde": "Dabasinskaite",
+    "lytis": "Female",
+    "metai": 1989,
+    "menuo": 12,
+    "diena": 13,
+    "asmens_kodas": "48912130621"
+  },
+  {
+    "vardas": "Osbert",
+    "pavarde": "Carrington",
+    "lytis": "Male",
+    "metai": 1842,
+    "menuo": 9,
+    "diena": 12,
+    "asmens_kodas": "14209120744"
+  },
+  {
+    "vardas": "Hasty",
+    "pavarde": "Pighills",
+    "lytis": "Male",
+    "metai": 1866,
+    "menuo": 10,
+    "diena": 30,
+    "asmens_kodas": "16610305659"
+  },
+  {
+    "vardas": "Bartholomew",
+    "pavarde": "Linguard",
+    "lytis": "Male",
+    "metai": 1959,
+    "menuo": 4,
+    "diena": 5,
+    "asmens_kodas": "35904056447"
+  },
+  {
+    "vardas": "Hagan",
+    "pavarde": "Mabbett",
+    "lytis": "Male",
+    "metai": 1976,
+    "menuo": 6,
+    "diena": 16,
+    "asmens_kodas": "37606166643"
+  },
+  {
+    "vardas": "Danyette",
+    "pavarde": "Ainslee",
+    "lytis": "Female",
+    "metai": 1954,
+    "menuo": 1,
+    "diena": 24,
+    "asmens_kodas": "45401247453"
+  },
+  {
+    "vardas": "Bekki",
+    "pavarde": "Turrill",
+    "lytis": "Female",
+    "metai": 1941,
+    "menuo": 5,
+    "diena": 14,
+    "asmens_kodas": "44105148965"
+  },
+  {
+    "vardas": "Helenelizabeth",
+    "pavarde": "Humberston",
+    "lytis": "Female",
+    "metai": 1864,
+    "menuo": 8,
+    "diena": 5,
+    "asmens_kodas": "26408051196"
+  },
+  {
+    "vardas": "Yorke",
+    "pavarde": "Salway",
+    "lytis": "Female",
+    "metai": 1859,
+    "menuo": 10,
+    "diena": 25,
+    "asmens_kodas": "25910254394"
+  },
+  {
+    "vardas": "Kerwinn",
+    "pavarde": "Parfrey",
+    "lytis": "Male",
+    "metai": 1864,
+    "menuo": 7,
+    "diena": 26,
+    "asmens_kodas": "16407269021"
+  },
+  {
+    "vardas": "Marla",
+    "pavarde": "Thwaites",
+    "lytis": "Female",
+    "metai": 1904,
+    "menuo": 5,
+    "diena": 13,
+    "asmens_kodas": "40405136573"
+  },
+  {
+    "vardas": "Quinn",
+    "pavarde": "Thome",
+    "lytis": "Male",
+    "metai": 1936,
+    "menuo": 10,
+    "diena": 27,
+    "asmens_kodas": "33610277169"
+  },
+  {
+    "vardas": "Othelia",
+    "pavarde": "Bilsborrow",
+    "lytis": "Female",
+    "metai": 1801,
+    "menuo": 9,
+    "diena": 5,
+    "asmens_kodas": "20109055092"
+  },
+  {
+    "vardas": "Fields",
+    "pavarde": "Cribbin",
+    "lytis": "Male",
+    "metai": 1898,
+    "menuo": 1,
+    "diena": 20,
+    "asmens_kodas": "19801200899"
+  },
+  {
+    "vardas": "Valerie",
+    "pavarde": "Pattle",
+    "lytis": "Female",
+    "metai": 1890,
+    "menuo": 4,
+    "diena": 12,
+    "asmens_kodas": "29004126739"
+  },
+  {
+    "vardas": "Gordie",
+    "pavarde": "Gheerhaert",
+    "lytis": "Male",
+    "metai": 1830,
+    "menuo": 11,
+    "diena": 10,
+    "asmens_kodas": "13011109213"
+  }
+]

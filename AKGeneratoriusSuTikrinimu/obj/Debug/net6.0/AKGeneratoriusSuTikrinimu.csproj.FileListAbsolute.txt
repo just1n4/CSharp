@@ -1,0 +1,17 @@
+C:\Users\justi\OneDrive\Stalinis kompiuteris\CSharp\AKGeneratoriusSuTikrinimu\bin\Debug\net6.0\AKGeneratoriusSuTikrinimu.exe
+C:\Users\justi\OneDrive\Stalinis kompiuteris\CSharp\AKGeneratoriusSuTikrinimu\bin\Debug\net6.0\AKGeneratoriusSuTikrinimu.deps.json
+C:\Users\justi\OneDrive\Stalinis kompiuteris\CSharp\AKGeneratoriusSuTikrinimu\bin\Debug\net6.0\AKGeneratoriusSuTikrinimu.runtimeconfig.json
+C:\Users\justi\OneDrive\Stalinis kompiuteris\CSharp\AKGeneratoriusSuTikrinimu\bin\Debug\net6.0\AKGeneratoriusSuTikrinimu.dll
+C:\Users\justi\OneDrive\Stalinis kompiuteris\CSharp\AKGeneratoriusSuTikrinimu\bin\Debug\net6.0\AKGeneratoriusSuTikrinimu.pdb
+C:\Users\justi\OneDrive\Stalinis kompiuteris\CSharp\AKGeneratoriusSuTikrinimu\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\justi\OneDrive\Stalinis kompiuteris\CSharp\AKGeneratoriusSuTikrinimu\obj\Debug\net6.0\AKGeneratoriusSuTikrinimu.csproj.AssemblyReference.cache
+C:\Users\justi\OneDrive\Stalinis kompiuteris\CSharp\AKGeneratoriusSuTikrinimu\obj\Debug\net6.0\AKGeneratoriusSuTikrinimu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\OneDrive\Stalinis kompiuteris\CSharp\AKGeneratoriusSuTikrinimu\obj\Debug\net6.0\AKGeneratoriusSuTikrinimu.AssemblyInfoInputs.cache
+C:\Users\justi\OneDrive\Stalinis kompiuteris\CSharp\AKGeneratoriusSuTikrinimu\obj\Debug\net6.0\AKGeneratoriusSuTikrinimu.AssemblyInfo.cs
+C:\Users\justi\OneDrive\Stalinis kompiuteris\CSharp\AKGeneratoriusSuTikrinimu\obj\Debug\net6.0\AKGeneratoriusSuTikrinimu.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Stalinis kompiuteris\CSharp\AKGeneratoriusSuTikrinimu\obj\Debug\net6.0\AKGeneratoriusSuTikrinimu.csproj.CopyComplete
+C:\Users\justi\OneDrive\Stalinis kompiuteris\CSharp\AKGeneratoriusSuTikrinimu\obj\Debug\net6.0\AKGeneratoriusSuTikrinimu.dll
+C:\Users\justi\OneDrive\Stalinis kompiuteris\CSharp\AKGeneratoriusSuTikrinimu\obj\Debug\net6.0\refint\AKGeneratoriusSuTikrinimu.dll
+C:\Users\justi\OneDrive\Stalinis kompiuteris\CSharp\AKGeneratoriusSuTikrinimu\obj\Debug\net6.0\AKGeneratoriusSuTikrinimu.pdb
+C:\Users\justi\OneDrive\Stalinis kompiuteris\CSharp\AKGeneratoriusSuTikrinimu\obj\Debug\net6.0\AKGeneratoriusSuTikrinimu.genruntimeconfig.cache
+C:\Users\justi\OneDrive\Stalinis kompiuteris\CSharp\AKGeneratoriusSuTikrinimu\obj\Debug\net6.0\ref\AKGeneratoriusSuTikrinimu.dll

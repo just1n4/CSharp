@@ -1,0 +1,47 @@
+[
+  {
+    "vardas": "Jerrie",
+    "pavarde": "Extil",
+    "lytis": "Male",
+    "metai": 1892,
+    "menuo": 20,
+    "diena": 14,
+    "asmens_kodas": null
+  },
+  {
+    "vardas": "Ediva",
+    "pavarde": "Hindge",
+    "lytis": "Female",
+    "metai": 1874,
+    "menuo": 60,
+    "diena": 23,
+    "asmens_kodas": null
+  },
+  {
+    "vardas": "Luise",
+    "pavarde": "Rispen",
+    "lytis": "Female",
+    "metai": 1751,
+    "menuo": 5,
+    "diena": 26,
+    "asmens_kodas": null
+  },
+  {
+    "vardas": "Chic",
+    "pavarde": "Govern",
+    "lytis": "Male",
+    "metai": 1951,
+    "menuo": 9,
+    "diena": 32,
+    "asmens_kodas": null
+  },
+  {
+    "vardas": "Bernadina",
+    "pavarde": "Bason",
+    "lytis": "Female",
+    "metai": 2009,
+    "menuo": 8,
+    "diena": 93,
+    "asmens_kodas": null
+  }
+]
